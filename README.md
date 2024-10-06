@@ -1,3 +1,6 @@
+
+***Fork efetuado para resolver os desanfios do curso de Desenvolvimento C#.**
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
